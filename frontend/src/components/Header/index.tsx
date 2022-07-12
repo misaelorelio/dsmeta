@@ -1,5 +1,5 @@
-import logo from '../../assets/img/logo.svg'
-import "./styles.css"
+import logo from '../../assets/img/logo.svg';
+import "./styles.css";
 function Header() {
 
     return (
@@ -9,7 +9,7 @@ function Header() {
             <h1>DSMeta</h1>
             <p>
               Desenvolvido por
-              <a href="https://gitlab.com/misaelorelio">@misaelorelio</a>
+              <a href="https://gitlab.com/misaelorelio"> @misaelorelio</a>
             </p>
         </div>
     </header>
@@ -17,5 +17,5 @@ function Header() {
     )
   }
   
-  export default Header
+  export default Header;
   
